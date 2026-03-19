@@ -57,8 +57,8 @@ $ git push && pray
 
 | Project | Description |
 |---------|-------------|
-| 🛡️ [casscli](https://github.com/VisenTechnology/casscli) | Safe Cassandra CLI with guardrails |
-| 🏢 VisenTechnology | Business platforms, bots, and infra tools |
+| [casscli](https://github.com/VisenTechnology/casscli) | Safe Cassandra CLI with guardrails |
+| VisenTechnology | Business platforms, bots, and infra tools |
 
 ---
 
