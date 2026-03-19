@@ -64,6 +64,6 @@ $ git push && pray
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vprymak&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vprymak&theme=tokyonight&hide_border=true" alt="Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitaliyPrymak&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitaliyPrymak&theme=tokyonight&hide_border=true" alt="Streak" width="48%">
 </p>
