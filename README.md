@@ -13,11 +13,11 @@
 
 ### About Me
 
-- 🔧 SRE / DevOps Engineer working with production Cassandra, Kubernetes, and cloud infrastructure
-- 🛡️ Creator of **[casscli](https://github.com/VisenTechnology/casscli)** — safe Cassandra operations CLI
-- 🏗️ Co-founder of **[VisenTechnology](https://github.com/VisenTechnology)** — we build tools, platforms, and bots
-- 🎖️ Ukrainian Armed Forces veteran (Infantry)
-- 🇺🇦 From Ukraine, based in Kraków, Poland
+- SRE / DevOps Engineer working with production Cassandra, Kubernetes, and cloud infrastructure
+- Creator of **[casscli](https://github.com/VisenTechnology/casscli)** — safe Cassandra operations CLI
+- Co-founder of **[VisenTechnology](https://github.com/VisenTechnology)** — we build tools, platforms, and bots
+- Ukrainian Armed Forces veteran (Infantry)
+- From Ukraine, based in Kraków, Poland
 
 ### What I Do Daily
 
@@ -46,7 +46,6 @@ $ git push && pray
   <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki">
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana">
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra">
-  <img src="https://img.shields.io/badge/K8ssandra-4A90D9?style=for-the-badge&logo=apache&logoColor=white" alt="K8ssandra">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Dragonfly-FF6600?style=for-the-badge" alt="Dragonfly">
   <img src="https://img.shields.io/badge/KeyDB-DC382D?style=for-the-badge" alt="KeyDB">
