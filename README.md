@@ -16,6 +16,7 @@
 - 🔧 SRE / DevOps Engineer working with production Cassandra, Kubernetes, and cloud infrastructure
 - 🛡️ Creator of **[casscli](https://github.com/VisenTechnology/casscli)** — safe Cassandra operations CLI
 - 🏗️ Co-founder of **[VisenTechnology](https://github.com/VisenTechnology)** — we build tools, platforms, and bots
+- 🎖️ Ukrainian Armed Forces veteran (Infantry)
 - 🇺🇦 From Ukraine, based in Kraków, Poland
 
 ### What I Do Daily
