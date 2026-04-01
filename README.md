@@ -2,8 +2,6 @@
 
 # Hey, I'm Vitaliy Prymak 👋
 
-[![DonbaXTech](https://raw.githubusercontent.com/DonbassTech/.github/main/assets/donbax-tech.png)](https://github.com/DonbassTech)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F8CFF&center=true&vCenter=true&width=720&lines=SRE+%2F+DevOps+Engineer;Co-Founder+of+DonbaXTech;Ukrainian+Veteran+%7C+Infantry+Service)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/VitaliyPrymak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/VitaliyPrymak)
