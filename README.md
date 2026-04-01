@@ -2,13 +2,15 @@
 
 # Hey, I'm Vitaliy Prymak 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F8CFF&center=true&vCenter=true&width=720&lines=SRE+%2F+DevOps+Engineer;Co-Founder+of+DonbassTech;Ukrainian+Veteran+%7C+Infantry+Service)](https://git.io/typing-svg)
+[![DonbaXTech](https://raw.githubusercontent.com/DonbassTech/.github/main/assets/donbax-tech.png)](https://github.com/DonbassTech)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F8CFF&center=true&vCenter=true&width=720&lines=SRE+%2F+DevOps+Engineer;Co-Founder+of+DonbaXTech;Ukrainian+Veteran+%7C+Infantry+Service)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/VitaliyPrymak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/VitaliyPrymak)
 [![GitHub User's stars](https://img.shields.io/github/stars/VitaliyPrymak?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/VitaliyPrymak)
 [![Profile Views](https://komarev.com/ghpvc/?username=VitaliyPrymak&style=for-the-badge&color=blueviolet)](https://github.com/VitaliyPrymak)
 
-[![DonbassTech](https://img.shields.io/badge/DonbassTech-Co--Founder-6366F1?style=for-the-badge)](https://github.com/DonbassTech)
+[![DonbaXTech](https://img.shields.io/badge/DonbaXTech-Co--Founder-6366F1?style=for-the-badge)](https://github.com/DonbassTech)
 ![Location](https://img.shields.io/badge/Krak%C3%B3w-Poland-1D4ED8?style=for-the-badge)
 ![From Ukraine](https://img.shields.io/badge/From-Ukraine-0057B7?style=for-the-badge)
 
@@ -20,7 +22,7 @@
 
 - SRE / DevOps Engineer focused on production reliability, observability, and automation
 - Builder of **[casscli](https://github.com/DonbassTech/casscli)**, a safer CLI for Cassandra operations with guardrails
-- Co-founder of **[DonbassTech](https://github.com/DonbassTech)**, where we build custom software, DevOps tools, infrastructure automation, and business platforms
+- Co-founder of **[DonbaXTech](https://github.com/DonbassTech)**, where we build custom software, DevOps tools, infrastructure automation, and business platforms
 - Ukrainian Armed Forces veteran with infantry service in Donbas
 - Based in Krakow, building practical systems that ship and scale
 
@@ -28,7 +30,7 @@
 
 ## Story
 
-I co-founded **DonbassTech** with my partners to turn engineering discipline into products that solve real business problems.  
+I co-founded **DonbaXTech** with my partners to turn engineering discipline into products that solve real business problems.  
 Our name is a tribute to the strength of Ukraine, to the defenders of the Armed Forces of Ukraine, and to Donbas as a beautiful and culturally rich region of our country.  
 For me, this mission is personal: military service shaped how I work - calm under pressure, responsibility for outcomes, and focus on what truly matters.
 
@@ -80,7 +82,7 @@ $ git push && monitor
 | Project | Description |
 |---------|-------------|
 | [casscli](https://github.com/DonbassTech/casscli) | Safe Cassandra CLI with preflight checks and operational guardrails |
-| [DonbassTech](https://github.com/DonbassTech) | Custom software, platforms, bots, and DevOps tooling |
+| [DonbaXTech](https://github.com/DonbassTech) | Custom software, platforms, bots, and DevOps tooling |
 
 ---
 
